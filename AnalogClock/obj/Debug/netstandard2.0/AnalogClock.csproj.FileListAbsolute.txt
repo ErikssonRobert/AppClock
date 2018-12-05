@@ -1,0 +1,11 @@
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/appklocka/AnalogClock/AnalogClock/bin/Debug/netstandard2.0/AnalogClock.deps.json
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/appklocka/AnalogClock/AnalogClock/bin/Debug/netstandard2.0/AnalogClock.dll
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/appklocka/AnalogClock/AnalogClock/bin/Debug/netstandard2.0/AnalogClock.pdb
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/appklocka/AnalogClock/AnalogClock/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/appklocka/AnalogClock/AnalogClock/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/appklocka/AnalogClock/AnalogClock/obj/Debug/netstandard2.0/AnalogClock.csproj.CoreCompileInputs.cache
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/appklocka/AnalogClock/AnalogClock/obj/Debug/netstandard2.0/AnalogClock.AssemblyInfoInputs.cache
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/appklocka/AnalogClock/AnalogClock/obj/Debug/netstandard2.0/AnalogClock.AssemblyInfo.cs
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/appklocka/AnalogClock/AnalogClock/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/appklocka/AnalogClock/AnalogClock/obj/Debug/netstandard2.0/AnalogClock.dll
+/Users/mrx/Desktop/App17/C-Sharp grundkurs/appklocka/AnalogClock/AnalogClock/obj/Debug/netstandard2.0/AnalogClock.pdb

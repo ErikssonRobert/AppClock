@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0E52A085-D6EF-43F5-9CBA-D43DC7062A3F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnalogClock/MainPage.xaml.cs">
+    <Files>
+      <File FileName="AnalogClock/MainPage.xaml.cs" Line="184" Column="27" />
+      <File FileName="AnalogClock/MainPage.xaml" Line="12" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AnalogClock.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>
